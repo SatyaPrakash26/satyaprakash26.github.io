@@ -111,8 +111,7 @@ let projectData =[
     projectName: '365 Entertainment',
     projectImage: 'gifs/365.gif',
     projectUrl: 'https://satyaprakash26.github.io/365-Entertainment/'
-    }
-  
+    },
     {
     projectName: 'Movie App',
     projectImage: 'gifs/MovieApp.gif',
