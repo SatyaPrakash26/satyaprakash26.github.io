@@ -98,11 +98,6 @@ circular.forEach((box)=>{
 
 let projectData =[
     {
-    projectName: 'Food Landing Page',
-    projectImage: 'gifs/ArchFood.gif',
-    projectUrl: 'https://satyaprakash26.github.io/Food-Delivery-UI/'
-    },
-    {
     projectName: 'Watch Landing Page',
     projectImage: 'gifs/ArchWatch.gif',
     projectUrl: 'https://satyaprakash26.github.io/Arch-Watch-Site/'
@@ -113,9 +108,19 @@ let projectData =[
     projectUrl: 'https://satyaprakash26.github.io/365-Entertainment/'
     },
     {
+    projectName: 'Food Landing Page',
+    projectImage: 'gifs/ArchFood.gif',
+    projectUrl: 'https://satyaprakash26.github.io/Food-Delivery-UI/'
+    },
+    {
     projectName: 'Movie App',
     projectImage: 'gifs/MovieApp.gif',
     projectUrl: 'https://satyaprakash26.github.io/Movie-App/'
+    },
+    {
+    projectName: 'Food Recipe App',
+    projectImage: 'gifs/FoodRecipe.gif',
+    projectUrl: 'https://satyaprakash26.github.io/Food-Recipe-App/'
     },
     {
     projectName: 'Digital-Analog Clock',
@@ -127,11 +132,7 @@ let projectData =[
     projectImage: 'gifs/GithubProfile.gif',
     projectUrl: 'https://satyaprakash26.github.io/Github-Profile-App/'
     },
-    {
-    projectName: 'Food Recipe App',
-    projectImage: 'gifs/FoodRecipe.gif',
-    projectUrl: 'https://satyaprakash26.github.io/Food-Recipe-App/'
-    },
+
     {
     projectName: 'Watch Features Page',
     projectImage: 'gifs/WatchFeatures.gif',
